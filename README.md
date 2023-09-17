@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=koteyka5000&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
